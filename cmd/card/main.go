@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/apkraft/bgo_homework_1_4/pkg/card"
+	"github.com/apkraft/bgo_homework_3_1/pkg/card"
 )
 
 func main() {
