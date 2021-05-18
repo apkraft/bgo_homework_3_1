@@ -1,4 +1,4 @@
-package card
+package mcc
 
 func TranslateMCC(code string) (string, bool) {
 	mcc := map[string]string{

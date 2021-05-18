@@ -1,4 +1,4 @@
-package card
+package transaction
 
 type Transaction struct {
 	Id          int64
